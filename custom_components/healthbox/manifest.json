@@ -1,6 +1,7 @@
 {
   "domain": "healthbox",
   "name": "Renson Healthbox",
+  "brand": "Renson",
   "codeowners": [
     "@iamgeert"
   ],
