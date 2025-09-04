@@ -38,7 +38,7 @@ This is still a work in progress. If time permits, I'll try to push this to HACS
 1. Navigate to the Integrations section
 1. Click the three dots at the top right
 1. Custom Repositories
-1. Enter the Repository URL: https://github.com/rmassch/healthbox-hacs
+1. Enter the Repository URL: https://github.com/iamgeert/homeassistant-renson-healthbox
 1. Select Category -> Integration
 1. Click Add
 1. Close the modal
@@ -111,18 +111,18 @@ If you want to contribute to this please read the [Contribution guidelines](CONT
 
 <!-- *** -->
 
-[healthbox]: https://github.com/rmassch/healthbox-hacs
+[healthbox]: https://github.com/iamgeert/homeassistant-renson-healthbox
 [buymecoffee]: https://www.buymeacoffee.com/ludeeus
 [buymecoffeebadge]: https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg?style=for-the-badge
-[commits-shield]: https://img.shields.io/github/commit-activity/y/rmassch/healthbox-hacs.svg?style=for-the-badge
-[commits]: https://github.com/rmassch/healthbox-hacs/commits/main
+[commits-shield]: https://img.shields.io/github/commit-activity/y/iamgeert/homeassistant-renson-healthbox.svg?style=for-the-badge
+[commits]: https://github.com/iamgeert/homeassistant-renson-healthbox/commits/main
 [hacs]: https://github.com/hacs/integration
 [hacsbadge]: https://img.shields.io/badge/HACS-Custom-orange.svg?style=for-the-badge
 [rensonimg]: https://www.renson.eu/Renson/media/Renson-images/renson-logo.png?ext=.png
 [resonurl]: https://www.renson.eu/gd-gb/producten-zoeken/ventilatie/mechanische-ventilatie/units/healthbox-3-0
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg?style=for-the-badge
 [forum]: https://community.home-assistant.io/
-[license-shield]: https://img.shields.io/github/license/rmassch/healthbox-hacs.svg?style=for-the-badge
-[maintenance-shield]: https://img.shields.io/badge/maintainer-@rmassch-blue.svg?style=for-the-badge
-[releases-shield]: https://img.shields.io/github/release/rmassch/healthbox-hacs.svg?style=for-the-badge
-[releases]: https://github.com/rmassch/healthbox-hacs/releases
+[license-shield]: https://img.shields.io/github/license/iamgeert/homeassistant-renson-healthbox.svg?style=for-the-badge
+[maintenance-shield]: https://img.shields.io/badge/maintainer-@iamgeert-blue.svg?style=for-the-badge
+[releases-shield]: https://img.shields.io/github/release/iamgeert/homeassistant-renson-healthbox.svg?style=for-the-badge
+[releases]: https://github.com/iamgeert/homeassistant-renson-healthbox/releases
