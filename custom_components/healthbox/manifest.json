@@ -11,8 +11,8 @@
   "iot_class": "local_polling",
   "issue_tracker": "https://github.com/iamgeert/homeassistant-renson-healthbox/issues",
   "requirements": [
-    "pyhealthbox3==0.0.22"
-  ],
+  "git+https://github.com/iamgeert/homeassistant-renson-pyhealthbox3"
+  ]
   "ssdp": [],
   "version": "0.0.1",
   "zeroconf": []
